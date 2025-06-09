@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Thrishank 👋</h1>
 <h3 align="center">A passionate Backend developer, Curious about AI and Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishank007&label=Profile%20views&color=0e75b6&style=flat" alt="thrishank007" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrishank007&label=Profile%20views&color=0e75b6&style=flat" alt="thrishank007" /> 
+<a href="https://wakatime.com/@e8af6117-af6f-42b9-811e-71ae3815e8c1"><img src="https://wakatime.com/badge/user/e8af6117-af6f-42b9-811e-71ae3815e8c1.svg" alt="Total time coded since Jun 9 2025" /></a>
+</p>
 - 🔭 I’m currently working on [EcoSnap](https://https://github.com/thrishank007/EcoSnap)
 
 - 🌱 I’m currently learning **Tensorflow,Keras**
