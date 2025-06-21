@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [EcoSnap](https://github.com/thrishank007/EcoSnap)
 
-- 🌱 I’m currently learning **Tensorflow,Keras**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Nodejs,Restful APIs**
+- 💬 Ask me about **Nodejs, Restful APIs**
 
 - 📫 You can reach out to me [here](mailto:thrishankchintham@gmail.com)
 
