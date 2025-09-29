@@ -5,7 +5,7 @@
 <a href="https://wakatime.com/@e8af6117-af6f-42b9-811e-71ae3815e8c1"><img src="https://wakatime.com/badge/user/e8af6117-af6f-42b9-811e-71ae3815e8c1.svg" alt="Total time coded since Jun 9 2025" /></a>
 </p>
 
-- 🔭 I’m currently working on [ITCC Hunter](https://github.com/thrishank007/ITCC-Hunter)
+- 🔭 I’m currently working on [NeuraX](https://github.com/thrishank007/SIH-SI)
 
 - 🌱 I’m currently learning **Machine Learning**
 
