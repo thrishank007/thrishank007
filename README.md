@@ -5,16 +5,12 @@
 <a href="https://wakatime.com/@e8af6117-af6f-42b9-811e-71ae3815e8c1"><img src="https://wakatime.com/badge/user/e8af6117-af6f-42b9-811e-71ae3815e8c1.svg" alt="Total time coded since Jun 9 2025" /></a>
 </p>
 
-- 🔭 I'm currently working on [UniHub](https://github.com/thrishank007/UNIHUB)
+- 🔭 I'm currently working on [HaathSe]([https://github.com/thrishank007/HaathSe])
 
-- 🌱 I'm currently learning
-  - Machine Learning fundamentals
-  - LLM workflows and GenAI system design
-
-- 💬 Ask Me About
-  - Machine Learning basics
-  - LLMs & GenAI concepts
-  - RESTful APIs & backend design
+- 📌 Currently Exploring
+  - Agentic workflows & autonomous systems
+  - AI system evaluation & benchmarking
+  - Real-world deployment of AI applications
 
 - 📫 You can reach out to me [here](mailto:thrishankchintham@gmail.com)
 
